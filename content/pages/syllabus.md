@@ -59,58 +59,614 @@ Experimental work, based primarily on take-home kits, will be a major feature of
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 3 Quizzes | 45% |
-| Final Exam | 25% |
-| Mastering Physics | 10% |
-| Hand-written Problem Sets | 10% |
-| Experiment Problems | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mastering Physics
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hand-written Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Experiment Problems
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
 The calendar below provides information on the course's Lecture (L) and Exams (E) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction to 8.01X, Measurement Standards | Estimating a second experiment questions out |
-| L2 | Mechanics Baseline Test I | Problem set 1 out  {{< br >}}  {{< br >}}Red boxes out |
-| L3 | Units, Dimensions, Fermi Problems, Estimating a Second Experiment Questions | &nbsp; |
-| L4 | Kinematics: 1D Motion, Displacement and Velocity | Low voltage power supply experiment questions out |
-| L5 | 1D Motion, Velocity and Acceleration  {{< br >}}  {{< br >}}Mechanics Baseline Test II | Problem set 2 out  {{< br >}}  {{< br >}}Estimating a second experiment questions due  {{< br >}}  {{< br >}}Problem set 1 due |
-| L6 | Vectors, Newton's Laws of Motion, Force, Mass and Acceleration | &nbsp; |
-| L7 | Newton's Laws of Motion, Force, Mass and Acceleration (cont.) | Falling object experiment questions out |
-| L8 | Newton's Laws, Gravitation and Weight, Projectiles | Low voltage power supply experiment questions due  {{< br >}}  {{< br >}}Problem set 2 due  {{< br >}}  {{< br >}}Problem set 3 out |
-| L9 | Newton's Laws (cont.), Normal Forces and Friction | Force between magnets experiment questions out |
-| L10 | Review, Applications of Newton's Laws | Falling object experiment questions due  {{< br >}}  {{< br >}}Problem set 3 due  {{< br >}}  {{< br >}}Problem set 4 out |
-| E1 | Quiz 1  {{< br >}}Covers: Fundamental Concepts, Fermi Problems, 1D Kinematics, Estimating a Second Experiment Questions, Falling Object Experiment Questions, Projectile Motion, Newton's Laws | &nbsp; |
-| L11 | Newton's Laws (cont.), Spring Forces, Tension | Centripetal force experiment questions out |
-| L12 | Uniform Circular Motion | Problem set 4 due  {{< br >}}  {{< br >}}Problem set 5 out |
-| L13 | Universal Law of Gravitation, Planetary Orbits | &nbsp; |
-| L14 | Levers, Statics and Torque | &nbsp; |
-| L15 | Statics and Torque | Problem set 5 due  {{< br >}}  {{< br >}}Force between magnets experiment questions due  {{< br >}}  {{< br >}}Problem set 6 out |
-| L16 | Work, Kinetic Energy | &nbsp; |
-| L17 | Conservation Laws, Potential Energy | Problem set 6 due  {{< br >}}  {{< br >}}Centripetal force experiment questions due  {{< br >}}  {{< br >}}Problem set 7 out |
-| L18 | Conservation of Mechanical Energy | Energy Transformations Experiment Questions out |
-| E2 | Quiz 2  {{< br >}}Covers: Newton's Laws, Circular Motion, Static Equilibrium | &nbsp; |
-| L19 | Energy: Universal Gravitation and Planetary Orbits | Problem set 7 due  {{< br >}}  {{< br >}}Problem set 8 out |
-| L20 | Energy Transformations, Heat | &nbsp; |
-| L21 | Restoring Forces and Harmonic Motion, Pendulum | &nbsp; |
-| L22 | Linear Momentum, Impulse, Newton's 2nd Law | Energy transformations experiment questions due  {{< br >}}  {{< br >}}Problem set 8 due  {{< br >}}  {{< br >}}Problem set 9 out |
-| L23 | Momentum, Center of Mass | &nbsp; |
-| L24 | Momentum (cont.), Collisions | Vibrating systems experiment Questions out |
-| L25 | Collisions, Kinetic Theory | Problem set 9 due  {{< br >}}  {{< br >}}Problem set 10 out |
-| L26 | Angular Kinematics, Torque, Rigid Bodies, Moment of Inertia | Angular momentum experiment questions out |
-| L27 | Moment of Inertia (cont.), Angular Momentum | Problem set 10 due  {{< br >}}  {{< br >}}Vibrating systems experiment questions due  {{< br >}}  {{< br >}}Problem set 11 out |
-| E3 | Quiz 3  {{< br >}}Covers: Energy, Momentum, Conservation Laws, Collisions | &nbsp; |
-| L28 | Rotational Dynamics | &nbsp; |
-| L29 | Angular Dynamics, Translation and Rotation | Angular momentum experiment questions due  {{< br >}}  {{< br >}}Problem set 11 due |
-| L30 | Properties of Materials: Solids | &nbsp; |
-| L31 | Properties of Materials: Fluids | Problem set 12 out  {{< br >}}  {{< br >}}Flow experiment questions out |
-| L32 | Conservation of Flow, Buoyancy | &nbsp; |
-| L33 | Viscosity | &nbsp; |
-| L34 | Properties of Materials: Atomic Hypothesis | Problem set 12 due  {{< br >}}  {{< br >}}Flow experiment questions due |
-| L35 | Special Relativity, Inertial Frames | &nbsp; |
-| L36 | Final Review | &nbsp; |
-| E4 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to 8.01X, Measurement Standards
+{{< tdclose >}}
+{{< tdopen >}}
+Estimating a second experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanics Baseline Test I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out  
+  
+Red boxes out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Units, Dimensions, Fermi Problems, Estimating a Second Experiment Questions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinematics: 1D Motion, Displacement and Velocity
+{{< tdclose >}}
+{{< tdopen >}}
+Low voltage power supply experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+1D Motion, Velocity and Acceleration  
+  
+Mechanics Baseline Test II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out  
+  
+Estimating a second experiment questions due  
+  
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Vectors, Newton's Laws of Motion, Force, Mass and Acceleration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's Laws of Motion, Force, Mass and Acceleration (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Falling object experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's Laws, Gravitation and Weight, Projectiles
+{{< tdclose >}}
+{{< tdopen >}}
+Low voltage power supply experiment questions due  
+  
+Problem set 2 due  
+  
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's Laws (cont.), Normal Forces and Friction
+{{< tdclose >}}
+{{< tdopen >}}
+Force between magnets experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Review, Applications of Newton's Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Falling object experiment questions due  
+  
+Problem set 3 due  
+  
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1  
+Covers: Fundamental Concepts, Fermi Problems, 1D Kinematics, Estimating a Second Experiment Questions, Falling Object Experiment Questions, Projectile Motion, Newton's Laws
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's Laws (cont.), Spring Forces, Tension
+{{< tdclose >}}
+{{< tdopen >}}
+Centripetal force experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Uniform Circular Motion
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due  
+  
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Universal Law of Gravitation, Planetary Orbits
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Levers, Statics and Torque
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Statics and Torque
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due  
+  
+Force between magnets experiment questions due  
+  
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Work, Kinetic Energy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation Laws, Potential Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due  
+  
+Centripetal force experiment questions due  
+  
+Problem set 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation of Mechanical Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Transformations Experiment Questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2  
+Covers: Newton's Laws, Circular Motion, Static Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Energy: Universal Gravitation and Planetary Orbits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due  
+  
+Problem set 8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Transformations, Heat
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Restoring Forces and Harmonic Motion, Pendulum
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Momentum, Impulse, Newton's 2nd Law
+{{< tdclose >}}
+{{< tdopen >}}
+Energy transformations experiment questions due  
+  
+Problem set 8 due  
+  
+Problem set 9 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum, Center of Mass
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum (cont.), Collisions
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrating systems experiment Questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions, Kinetic Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due  
+  
+Problem set 10 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Angular Kinematics, Torque, Rigid Bodies, Moment of Inertia
+{{< tdclose >}}
+{{< tdopen >}}
+Angular momentum experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Moment of Inertia (cont.), Angular Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due  
+  
+Vibrating systems experiment questions due  
+  
+Problem set 11 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3  
+Covers: Energy, Momentum, Conservation Laws, Collisions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+Rotational Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L29
+{{< tdclose >}}
+{{< tdopen >}}
+Angular Dynamics, Translation and Rotation
+{{< tdclose >}}
+{{< tdopen >}}
+Angular momentum experiment questions due  
+  
+Problem set 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L30
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of Materials: Solids
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L31
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of Materials: Fluids
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 12 out  
+  
+Flow experiment questions out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L32
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation of Flow, Buoyancy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L33
+{{< tdclose >}}
+{{< tdopen >}}
+Viscosity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L34
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of Materials: Atomic Hypothesis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 12 due  
+  
+Flow experiment questions due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L35
+{{< tdclose >}}
+{{< tdopen >}}
+Special Relativity, Inertial Frames
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L36
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E4
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

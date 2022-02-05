@@ -44,14 +44,129 @@ Kit Parts List ([PDF]({{< baseurl >}}/resources/kit_part_list))
 Experiment Questions
 --------------------
 
-| EXPERIMENT QUESTIONS | SOLUTIONS | DUE DATES |
-| --- | --- | --- |
-| Estimating a Second (ES) ([PDF]({{< baseurl >}}/resources/expt_es_problem_1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_es_sol)) | L5 |
-| Low Voltage Power Supply (LVPS) ([PDF 1]({{< baseurl >}}/resources/problem_lvps)) ([PDF 2]({{< baseurl >}}/resources/soldering_leads)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lvps_sol)) | L8 |
-| Falling Object (FO) ([PDF]({{< baseurl >}}/resources/exptfo_prob3)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_fo_sol)) | L10 |
-| Force Between Magnets (FM) ([PDF]({{< baseurl >}}/resources/expt_fm_problem)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_mf_sol)) | L15 |
-| Centripetal Force (CF) ([PDF]({{< baseurl >}}/resources/problem_expt_cf)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_cf_sol)) | L17 |
-| Energy Transformations (ET) ([PDF]({{< baseurl >}}/resources/expt_et_prob)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_et_sol)) | L22 |
-| Vibrating Systems (VS) ([PDF]({{< baseurl >}}/resources/expt_vs_problem)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_vs_sol)) | L27 |
-| Angular Momentum (AM) ([PDF]({{< baseurl >}}/resources/expt_am_problem)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_am_sol)) | L29 |
-| Flow ([PDF]({{< baseurl >}}/resources/expt_flow)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_flow_sol)) | L34
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXPERIMENT QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Estimating a Second (ES) ([PDF]({{< baseurl >}}/resources/expt_es_problem_1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_es_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Low Voltage Power Supply (LVPS) ([PDF 1]({{< baseurl >}}/resources/problem_lvps)) ([PDF 2]({{< baseurl >}}/resources/soldering_leads))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lvps_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Falling Object (FO) ([PDF]({{< baseurl >}}/resources/exptfo_prob3))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_fo_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Force Between Magnets (FM) ([PDF]({{< baseurl >}}/resources/expt_fm_problem))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_mf_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Centripetal Force (CF) ([PDF]({{< baseurl >}}/resources/problem_expt_cf))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_cf_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Energy Transformations (ET) ([PDF]({{< baseurl >}}/resources/expt_et_prob))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_et_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vibrating Systems (VS) ([PDF]({{< baseurl >}}/resources/expt_vs_problem))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_vs_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Angular Momentum (AM) ([PDF]({{< baseurl >}}/resources/expt_am_problem))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_am_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L29
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flow ([PDF]({{< baseurl >}}/resources/expt_flow))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_flow_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+L34
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

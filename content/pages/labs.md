@@ -65,7 +65,7 @@ DUE DATES
 Estimating a Second (ES) ([PDF]({{< baseurl >}}/resources/expt_es_problem_1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_es_sol))
+([PDF]({{< baseurl >}}/resources/expt_es_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L5
@@ -77,7 +77,7 @@ L5
 Low Voltage Power Supply (LVPS) ([PDF 1]({{< baseurl >}}/resources/problem_lvps)) ([PDF 2]({{< baseurl >}}/resources/soldering_leads))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lvps_sol))
+([PDF]({{< baseurl >}}/resources/lvps_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L8
@@ -89,7 +89,7 @@ L8
 Falling Object (FO) ([PDF]({{< baseurl >}}/resources/exptfo_prob3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_fo_sol))
+([PDF]({{< baseurl >}}/resources/expt_fo_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L10
@@ -101,7 +101,7 @@ L10
 Force Between Magnets (FM) ([PDF]({{< baseurl >}}/resources/expt_fm_problem))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_mf_sol))
+([PDF]({{< baseurl >}}/resources/expt_mf_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L15
@@ -113,7 +113,7 @@ L15
 Centripetal Force (CF) ([PDF]({{< baseurl >}}/resources/problem_expt_cf))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_cf_sol))
+([PDF]({{< baseurl >}}/resources/expt_cf_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L17
@@ -125,7 +125,7 @@ L17
 Energy Transformations (ET) ([PDF]({{< baseurl >}}/resources/expt_et_prob))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_et_sol))
+([PDF]({{< baseurl >}}/resources/expt_et_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L22
@@ -137,7 +137,7 @@ L22
 Vibrating Systems (VS) ([PDF]({{< baseurl >}}/resources/expt_vs_problem))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_vs_sol))
+([PDF]({{< baseurl >}}/resources/expt_vs_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L27
@@ -149,7 +149,7 @@ L27
 Angular Momentum (AM) ([PDF]({{< baseurl >}}/resources/expt_am_problem))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_am_sol))
+([PDF]({{< baseurl >}}/resources/expt_am_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L29
@@ -161,7 +161,7 @@ L29
 Flow ([PDF]({{< baseurl >}}/resources/expt_flow))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/expt_flow_sol))
+([PDF]({{< baseurl >}}/resources/expt_flow_sol))
 {{< tdclose >}}
 {{< tdopen >}}
 L34

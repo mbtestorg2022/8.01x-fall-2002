@@ -46,7 +46,7 @@ E2
 ([PDF]({{< baseurl >}}/resources/text_probs2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/2pract))
+([PDF]({{< baseurl >}}/resources/2pract))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/2pract_sols))
@@ -61,10 +61,10 @@ E3
 ([PDF]({{< baseurl >}}/resources/text_probs3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/3pract))
+([PDF]({{< baseurl >}}/resources/3pract))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pr3sols2))
+([PDF]({{< baseurl >}}/resources/pr3sols2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +76,10 @@ E4
 ([PDF]({{< baseurl >}}/resources/text_probs_final))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_pract))
+([PDF]({{< baseurl >}}/resources/final_pract))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_pract_sol))
+([PDF]({{< baseurl >}}/resources/final_pract_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

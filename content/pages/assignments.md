@@ -30,7 +30,7 @@ DUE DATES
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/hmwk1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol1))
+([PDF]({{< baseurl >}}/resources/sol1))
 {{< tdclose >}}
 {{< tdopen >}}
 L5
@@ -42,7 +42,7 @@ L5
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/hmwk2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol2))
+([PDF]({{< baseurl >}}/resources/sol2))
 {{< tdclose >}}
 {{< tdopen >}}
 L8
@@ -90,7 +90,7 @@ L15
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/hmwk6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol6))
+([PDF]({{< baseurl >}}/resources/sol6))
 {{< tdclose >}}
 {{< tdopen >}}
 L17
@@ -138,7 +138,7 @@ L25
 Problem Set 10 ([PDF]({{< baseurl >}}/resources/hmwk10))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol10))
+([PDF]({{< baseurl >}}/resources/sol10))
 {{< tdclose >}}
 {{< tdopen >}}
 L27
